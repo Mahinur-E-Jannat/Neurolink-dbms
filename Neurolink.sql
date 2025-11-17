@@ -1,5 +1,4 @@
 -- Project: Neurolink — Human Memory & Emotion Mapping
--- Author: Mahinur E Jannat
 -- Description: Full SQL schema + sample data
 DROP DATABASE IF EXISTS Neurolink;
 CREATE DATABASE Neurolink;
